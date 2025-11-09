@@ -1,4 +1,4 @@
-# Nametag-Gui-Roblox
+# Nametag Gui Roblox
 A clean and modern Nametag GUI made for survival or simulation-style Roblox games.
 It’s fully customizable into any project.
 Includes XP display and supports flexible styling.
